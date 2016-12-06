@@ -1,0 +1,4 @@
+C:\TestProj\MotoringCanonicalUrls_new\URLService\bin\URLService.dll
+C:\TestProj\MotoringCanonicalUrls_new\URLService\bin\URLService.pdb
+C:\TestProj\MotoringCanonicalUrls_new\URLService\obj\Debug\URLService.dll
+C:\TestProj\MotoringCanonicalUrls_new\URLService\obj\Debug\URLService.pdb

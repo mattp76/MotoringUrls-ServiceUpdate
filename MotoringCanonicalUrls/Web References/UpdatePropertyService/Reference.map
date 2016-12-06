@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://localhost:62826/services/propertysetterwebservice.asmx?wsdl" filename="propertysetterwebservice.wsdl" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://localhost:62826/services/propertysetterwebservice.asmx?disco" filename="propertysetterwebservice.disco" />
+  </Results>
+</DiscoveryClientResultsFile>
